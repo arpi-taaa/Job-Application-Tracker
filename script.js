@@ -5,7 +5,7 @@ let jobsData = [
     { id: 4, company: "CloudScale", role: "DevOps Engineer", loc: "Remote", type: "Contract", pay: "$150k - $190k", desc: "Automating cloud infrastructure and CI/CD pipelines for high-growth tech startups.", status: "none" },
     { id: 5, company: "FinTech Hub", role: "Senior Backend Developer", loc: "New York, NY", type: "Full-time", pay: "$160k - $210k", desc: "Developing secure and scalable microservices for financial transaction processing.", status: "none" },
     { id: 6, company: "GreenTech", role: "Full Stack Engineer", loc: "Austin, TX", type: "Hybrid", pay: "$110k - $150k", desc: "Join our mission to build software that helps companies reduce their carbon footprint.", status: "none" },
-    { id: 7, company: "Creative Minds", role: "UX/UI Designer", loc: "London, UK", type: "Full-time", pay: "$70k - $95k", desc: "Crafting beautiful and functional user interfaces for our global e-commerce platform.", status: "none" },
+    { id: 7, company: "Creative Minds", role: "UX/UI Designer", loc: "London, UK", type: "Full-time", pay: "$10k - $30k", desc: "Crafting beautiful and functional user interfaces for our global e-commerce platform.", status: "none" },
     { id: 8, company: "HealthBot AI", role: "Machine Learning Engineer", loc: "Remote", type: "Full-time", pay: "$180k - $240k", desc: "Training NLP models to provide better healthcare insights through AI assistants.", status: "none" }
 ];
 
