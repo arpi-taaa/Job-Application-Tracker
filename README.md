@@ -9,3 +9,8 @@ Answer to the Question no 2:
 
 Answer to the Question no 3:
     If I click on a button, the event firstly runs on the button, then on the parental div, then it runs on the body, and so on. This is basically Event Bubbling and this is the way it works(through the DOM tree).
+
+Answer to the Question no 4:
+    Event delegation is a technique where instead of adding event listeners to multiple child elements, we can add a single event listener to their parent.
+
+    It’s useful because it improves performance and works well for dynamically.
