@@ -6,3 +6,6 @@ Answer to the Question no 1:
 
 Answer to the Question no 2:
     If I create a div and add some text or contents to it and I want to show it on the web-page, then I have to append it to the body-code or any parent element.
+
+Answer to the Question no 3:
+    If I click on a button, the event firstly runs on the button, then on the parental div, then it runs on the body, and so on. This is basically Event Bubbling and this is the way it works(through the DOM tree).
