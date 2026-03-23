@@ -14,3 +14,8 @@ Answer to the Question no 4:
     Event delegation is a technique where instead of adding event listeners to multiple child elements, we can add a single event listener to their parent.
 
     It’s useful because it improves performance and works well for dynamically.
+
+Answer to the Question no 5:
+    preventDefault() is used for stopping the default actions.
+    On the other hand,
+    stopPropagation() is used for stopping the event bubbling that used to trigger any parent event handles.
